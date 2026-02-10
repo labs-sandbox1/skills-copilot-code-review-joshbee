@@ -1,0 +1,5 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [],
+  "github.copilot.chat.reviewSelection.enabled": true,
+  "scm.defaultViewMode": "tree"
+}
